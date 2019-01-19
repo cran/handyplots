@@ -1,0 +1,14 @@
+d53554f3344a7f57fb31885314310429 *DESCRIPTION
+e40b22ee4dc342e4ae9263fd102356bf *NAMESPACE
+54e8abad289f48b562d020d946449ed0 *R/ciplot.R
+fa6da6335a32a78073b85ad144b2dff6 *R/colID.R
+804b7cf3c1218ffbf0f41088e2b936d6 *R/fakedata.R
+a1a9d024a16f37323681d4ef2427018e *R/quickplot.R
+c31a4e8fcfebbbaadee0b87bce4fb8f7 *R/resplot.R
+aa3ee620690ecb6bca4d8cea919cb3cc *R/wordcount.R
+7a39849f4a1a54e70493daccab236cf4 *man/ciplot.Rd
+d139f5986a8f77cb5640222a21ea0da6 *man/colID.Rd
+4f1d7e7ce66d6f6e45c98be3a1cf7c1e *man/fakedata.Rd
+a1740c5a6e362e120dfcf406d06bb979 *man/quickplot.Rd
+a067afffd80d014f2b4099605a023335 *man/resplot.Rd
+6747b2c2b32074e079222859a3d7d098 *man/wordcount.Rd
